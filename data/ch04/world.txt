@@ -18,3 +18,7 @@ Hello world!
 A hello you may never have expected but that may just be the one you need.
 一个你从来没有预期的‘你好’却往往可能是你真真需要的。
 That is right.
+Hello world!
+A hello you may never have expected but that may just be the one you need.
+一个你从来没有预期的‘你好’却往往可能是你真真需要的。
+That is right.
